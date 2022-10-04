@@ -1,3 +1,8 @@
+h1{
+    color: red;
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
 .heading{
     color: red;
 }
@@ -9,4 +14,16 @@
 }
 #london{
     color: pink;
+}
+.lorem{
+    padding: 0 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+.box{
+    font-family: "Courier", serif;
+    border-style: ridge;
+    border-color: lightgreen;
+    border-width: 10px;
+    margin: 5px;
 }
